@@ -1,0 +1,115 @@
+body {
+
+    background-color:aquamarine;
+
+}
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+.note-title {
+    background-color: azure;
+    margin: 18px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    width: 80%;
+
+ 
+}
+.note-des {
+    margin: 16px;
+    background-color: azure;
+    padding: 6px;
+    border: none;
+    width: 80%;
+    border-radius: 5px;
+    
+}
+.save-note {
+    background-color: green;
+    margin: 16px;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+}
+.main {
+    align-items: center;
+    box-sizing: border-box;
+    width: 80%;
+    background-color: azure;
+    padding: 16px;
+    margin: 16px;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+.button-edit {
+    margin-bottom: 20px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+}
+.button-delete {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+.main-twitter {
+    background-color: deepskyblue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+}
+.main-facebook {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+}
+.main-linkedin {
+    background-color: skyblue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+}
+.main-email {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+}
+.num {
+    background-color: azure;
+    width: 80%;
+    margin:16px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.num-edit-button {
+    background-color: orange;
+    padding: 8px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+.num-del-button {
+    background-color: red;
+    padding: 8px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+p {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
